@@ -21,10 +21,10 @@
     
     <div class="btn__rad">
       <label for="op1">
-      <input   type="radio" name="op1">
+      <input type="radio" name="op1">
       Операнд 1</label>
       <label for="op2">
-      <input   type="radio" name="op2">
+      <input type="radio" name="op2">
       Операнд 2</label>
     </div>
 </div>
